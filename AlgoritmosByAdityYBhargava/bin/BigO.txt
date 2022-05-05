@@ -1,0 +1,11 @@
+A primeira coisa que preciso entender é: O que é logaritmo e como funciona.
+O logaritmo é simples de entender e é o oposto de exponenciais.
+
+
+Log10 100 = 10^2 ou 10x10.
+
+Ou seja, quantas vezes preciso multiplicar 10 por 10 para chegar no resultado de 100 R: duas vezes.
+
+Log2 32 = 5 pois 2*2*2*2*2 = 32
+
+Quantos falamos de BigO levamos em conta que log sempre é log2.
